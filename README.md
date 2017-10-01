@@ -1,0 +1,2 @@
+# projekt-magisterski
+mój projekt
